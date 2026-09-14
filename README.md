@@ -6,7 +6,7 @@
 </head>
 <body>
 <p align="center">  
-<a href="https://media1.tenor.com/m/EoDnLUS7np0AAAAd/lynx-tongue.gif"><img src="https://github.com/MychieKnows/DiARY/blob/main/booknquill.webp?raw=true" width="50px" height="auto" align="center"></a>
+<a href="https://media1.tenor.com/m/EoDnLUS7np0AAAAd/lynx-tongue.gif"><img src="https://github.com/MychieKnows/DiARY/blob/main/booknquill.webp?raw=true" width="50px" height="auto" align="center" title="DOWNLOAD?"></a>
   <p align="center">ok so like ill put my eaglercraft world(epk) next weekend</P>
   <p align="center">whihc is basically website version of minecraft</p>
   <p align="center">when it get updated js make a new world idk</p>
