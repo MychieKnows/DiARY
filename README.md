@@ -14,7 +14,7 @@
   <p>download it by clicking on the book n quill above</p>
   <a href="https://client.eaglercraft.win/eagler-files/modded/1.8/EaglyMC/index.html"><p>open eaglercraft</p></a>
   <p>singleplayer > create new world > load EPK file</p>
-<p>pc only I think, when I tried on my phone it lagged really badly<\p>
+<p>pc only I think, when I tried on my phone it lagged really badly
 </p>  
 </body>
 </html>
