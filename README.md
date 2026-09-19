@@ -16,5 +16,18 @@
   <p>singleplayer > create new world > load EPK file</p>
 <p>pc only I think, when I tried on my phone it lagged really badly
 </p>  
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <p>ok i actually dont have time for this i mighgt just write it in a txt or use the current mc world i use rn instead of buoding the fucking wildcrafrt map from sctracte</p>
 </body>
 </html>
